@@ -1,5 +1,4 @@
 # Rails Create, Index, and Show Lab
-
 ## Learning Goals
 
 - Generate `create`, `index` and `show` routes for one resource
@@ -93,7 +92,6 @@ actions that return the appropriate JSON data:
 
 ```txt
 GET /plants
-
 
 Response Body
 -------
